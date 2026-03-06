@@ -1,0 +1,17 @@
+/* 1. Noto Sans KR 폰트 불러오기 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap');
+
+:root {
+  /* 웹사이트 기본 폰트 적용 */
+  --sl-font: 'Noto Sans KR', sans-serif;
+  
+  /* 🎯 핵심 1: 가운데 본문 영역의 최대 너비를 확 늘려줍니다 (기본값은 45rem으로 좁은 편입니다) */
+  /* 숫자를 60rem, 70rem 등으로 조절하면 가운데 글쓰는 공간이 훨씬 넓어집니다. */
+  --sl-content-width: 65rem; 
+}
+
+/* 🎯 핵심 2: 오른쪽 'On this page' 영역의 너비를 강제로 확 줄입니다 */
+/* 기본 16rem 정도인 것을 10rem으로 줄였습니다. */
+.right-sidebar-container {
+  width: 10rem !important; 
+}

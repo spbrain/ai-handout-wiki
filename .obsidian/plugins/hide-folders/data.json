@@ -1,0 +1,15 @@
+{
+  "areFoldersHidden": true,
+  "matchCaseInsensitive": true,
+  "addHiddenFoldersToObsidianIgnoreList": false,
+  "hideBottomStatusBarIndicatorText": false,
+  "enableCompatQuickExplorer": false,
+  "attachmentFolderNames": [
+    "node_modules",
+    "dist",
+    ".astro",
+    "public",
+    "styles",
+    "assets"
+  ]
+}

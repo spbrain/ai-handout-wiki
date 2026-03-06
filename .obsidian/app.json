@@ -1,0 +1,8 @@
+{
+  "userIgnoreFilters": [
+    ".astro",
+    "public/",
+    "node_modules/"
+  ],
+  "attachmentFolderPath": "./attachments"
+}

@@ -1,5 +1,5 @@
 ---
-title: Antigravity 설치 및 세팅
+title: 01 Antigravity 설치 및 세팅
 ---
 # Google Antigravity 에이전트 주도형 코딩의 이해
 

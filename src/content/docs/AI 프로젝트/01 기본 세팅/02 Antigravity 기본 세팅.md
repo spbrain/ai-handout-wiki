@@ -1,5 +1,5 @@
 ---
-title: Antigravity 세팅
+title: 02 Antigravity 세팅
 ---
 # 1. 인증 및 로그인
 처음 설치후에는 로그인을 먼저 수행합니다. 이 때 먼저 해당 구글 계정(개인 계정)에 대한 Google AI Pro 계정이 있어야 원활하게 테스트 가능합니다.(유료)

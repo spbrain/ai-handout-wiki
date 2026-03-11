@@ -1,5 +1,5 @@
 ---
-title: 기본 MCP 설정
+title: 04 기본 MCP 설정
 ---
 # Sequential Thinking MCP Server 
 ## 1. Sequential Thinking MCP Server란 무엇인가요?

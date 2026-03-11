@@ -83,7 +83,7 @@ title: 04 기본 MCP 설정
 * 편집기에 설정하는 부분이 나타납니다.
   ![](attachments/Pasted%20image%2020260311202308.png)
 * 해당 API키와 내용을 참고해서 붙여 넣습니다.
-  ```json
+```json
   {
   "mcpServers": {
     "sequential-thinking": {
@@ -106,7 +106,8 @@ title: 04 기본 MCP 설정
     }
   }
 }
-  ```
+```
+
 * 저장 후 다시 Manage MCP Servers를 누르고 Refresh를 누르면 다음처럼 화면에 나타납니다.
 * ![](attachments/Pasted%20image%2020260311202554.png)
 ---

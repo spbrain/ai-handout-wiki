@@ -12,4 +12,5 @@ title: Antigravity 세팅
 * 오른쪽 상단 톱니바퀴(설정) 클릭
 * Open Antigravity User Settings 클릭
 * ![](attachments/Pasted%20image%2020260311192329.png)*
-* *
+* 왼쪽에 "Account"를 클릭하고 나면 GENERAL에 "Enable Telemetry"가 있습니다. **이를 Off 해주세요**
+* *![](attachments/Pasted%20image%2020260311192415.png)

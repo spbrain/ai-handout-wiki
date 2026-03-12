@@ -1,5 +1,5 @@
 ---
-title: 04 Antigravity Rule 설정
+title: 03 Antigravity Rule 설정
 ---
 # 폴더 생성
 프로젝트를 시작하기 위해서 post-note 라는 (프로젝트명) 폴더를 작업 디렉토리에 생성합니다.

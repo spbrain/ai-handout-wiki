@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/08 프로젝트 오류 및 기능 수정.md",
+                "file": "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/00 사전 준비.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 프로젝트 오류 및 기능 수정"
+              "title": "00 사전 준비"
             }
           }
         ]
@@ -184,19 +184,20 @@
   },
   "active": "bb1364b7308a1a7e",
   "lastOpenFiles": [
+    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/01 프로젝트 개요.md",
+    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/00 사전 준비.md",
+    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312111823.png",
+    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312111806.png",
+    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312111747.png",
+    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312111600.png",
+    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312111538.png",
+    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312111527.png",
+    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312111513.png",
+    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312111450.png",
+    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312111437.png",
+    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/08 프로젝트 오류 및 기능 수정.md",
     "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312111114.png",
     "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/07 첫 프로젝트 생성 완료 및 서비스 실행.md",
-    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/08 프로젝트 오류 및 기능 수정.md",
-    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312110659.png",
-    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312110048.png",
-    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312105940.png",
-    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312105312.png",
-    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312105059.png",
-    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312104956.png",
-    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312104917.png",
-    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312104822.png",
-    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312104805.png",
-    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments/Pasted image 20260312104756.png",
     "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/06 서비스 제작(공장모드).md",
     "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/05 서비스 개발 Spec 예(생성).md",
     "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/04 서비스 개발 Spec 만들기.md",
@@ -207,7 +208,6 @@
     "src/content/docs/AI 프로젝트/01 기본 세팅/02 Antigravity 기본 세팅.md",
     "src/content/docs/AI 프로젝트/01 기본 세팅/03 MCP 소개와 설정 메뉴.md",
     "src/content/docs/AI 프로젝트/01 기본 세팅/04 기본 MCP 설정.md",
-    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/01 프로젝트 개요.md",
     "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments",
     "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기",
     "src/content/docs/AI 프로젝트/01 기본 세팅/attachments",

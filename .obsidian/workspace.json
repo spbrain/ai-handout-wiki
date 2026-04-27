@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5fb13dbc0a55f56a",
+        "id": "efb9f7071a348440",
         "type": "tabs",
         "children": [
           {
-            "id": "456e503441703dca",
+            "id": "db95fb267c4ff1fb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f0e07e23cccb262",
+  "active": "db95fb267c4ff1fb",
   "lastOpenFiles": [
+    "src/content/docs/AI 프로젝트/03 벡터 및 자연어 검색/07 실습 - 자연어 상품 검색 및 응답 챗봇 (1).md",
     "src/content/docs/AI 프로젝트/03 벡터 및 자연어 검색/06 실습 - 상품 연관 검색.md",
     "src/content/docs/AI 프로젝트/03 벡터 및 자연어 검색/05 RAG에 대한 이해.md",
     "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/00 사전 준비.md",
@@ -192,7 +193,6 @@
     "src/content/docs/AI 프로젝트/03 벡터 및 자연어 검색/10 LLM 히스토리 관리.md",
     "src/content/docs/AI 프로젝트/03 벡터 및 자연어 검색/09 실습 - LLM 응답 스트리밍.md",
     "src/content/docs/AI 프로젝트/03 벡터 및 자연어 검색/08 실습 - 자연어 상품 검색 및 응답 챗봇 (2).md",
-    "src/content/docs/AI 프로젝트/03 벡터 및 자연어 검색/07 실습 - 자연어 상품 검색 및 응답 챗봇 (1).md",
     "src/content/docs/AI 프로젝트/03 벡터 및 자연어 검색/attachments/Pasted image 20260408154218.png",
     "src/content/docs/AI 프로젝트/03 벡터 및 자연어 검색/attachments/Pasted image 20260408153601.png",
     "src/content/docs/AI 프로젝트/03 벡터 및 자연어 검색/attachments/Pasted image 20260408153354.png",

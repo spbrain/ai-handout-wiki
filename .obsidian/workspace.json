@@ -70,7 +70,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db95fb267c4ff1fb",
+  "active": "238038148c6020e7",
   "lastOpenFiles": [
+    "무제.base",
     "src/content/docs/AI 프로젝트/03 벡터 및 자연어 검색/07 실습 - 자연어 상품 검색 및 응답 챗봇 (1).md",
     "src/content/docs/AI 프로젝트/03 벡터 및 자연어 검색/06 실습 - 상품 연관 검색.md",
     "src/content/docs/AI 프로젝트/03 벡터 및 자연어 검색/05 RAG에 대한 이해.md",
@@ -217,10 +219,8 @@
     "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/07 첫 프로젝트 생성 완료 및 서비스 실행.md",
     "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/06 서비스 제작(공장모드).md",
     "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/05 서비스 개발 Spec 예(생성).md",
-    "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/04 서비스 개발 Spec 만들기.md",
     "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기/attachments",
     "src/content/docs/AI 프로젝트/02 개인 메모 관리 App 만들기",
-    "src/content/docs/AI 프로젝트/01 기본 세팅/attachments",
-    "무제.base"
+    "src/content/docs/AI 프로젝트/01 기본 세팅/attachments"
   ]
 }
